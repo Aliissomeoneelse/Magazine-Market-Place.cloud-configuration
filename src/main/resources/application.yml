@@ -9,4 +9,4 @@ spring:
           uri: https://github.com/Aliissomeoneelse/Magazine-Market-Place.properties.git
           username: Aliissomeeoneelse
           password: ${git.password}
-        default-label: dev/Alisher
+        default-label: develop
