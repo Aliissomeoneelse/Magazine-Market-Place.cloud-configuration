@@ -7,6 +7,6 @@ spring:
       server:
         git:
           uri: https://github.com/Aliissomeoneelse/Magazine-Market-Place.properties.git
-          username: Aliissomeeoneelse
+          username: SpaceXRM
           password: ${git.password}
-        default-label: dev/Alisher
+        default-label: dev/Muhammadamin
